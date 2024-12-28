@@ -12,3 +12,4 @@ HOW TO USE:
 4. Type node index.js
 5. It will ask you the website link make sure to paste the full website link.
 6. The QR code will be generated in the folder and the website link will be stored in the .txt file.
+7. QR Code for google is already made so you don't need to make it again and get confused.
